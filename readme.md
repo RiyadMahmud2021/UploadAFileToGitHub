@@ -3,9 +3,11 @@
 
 1. Create a GitHub Repository;
 
-2. Go to Folder;
+2. Run VS Code;
 
-3. Type to Terminal these:
+3. Go to Folder; 
+
+4. Type to Terminal these:
 
         - git init
         - git remote add origin "https://github.com/RiyadMahmud2021/ice_cream_builder-.git"    //  put your github repogitoty link in the ""
