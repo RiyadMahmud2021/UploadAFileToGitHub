@@ -58,6 +58,7 @@ At Last Project will be uploaded to github account
           - git push -u origin develop
 
           # Pushing to main 
+          # --------------------------------------------------
           - please use GUI
 
           # Delete branch 
