@@ -50,7 +50,6 @@ At Last Project will be uploaded to github account
 
           # Update
           # --------------------------------------------------
-
           - git checkout 'develop' (going to git branch)
           - git branch   (checking where)
           - git add .
@@ -63,7 +62,6 @@ At Last Project will be uploaded to github account
 
           # Delete branch 
           # --------------------------------------------------
-
           - git checkout main   (go to the new main branch)
           - git branch -d develop  (delete command)
           - git branch   (checking where) 
