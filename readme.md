@@ -33,14 +33,35 @@ At Last Project will be uploaded to github account
 
 4. Type to Terminal these:
 
-        - git init
-        - git remote add origin "https://github.com/RiyadMahmud2021/ice_cream_builder-.git"    //  put your github repogitoty link in the ""
-        - git add . 
-        - git commit -am "changes"
-        - git push origin master
+     - uploading the project (initial commit)
+          - git init
+          - git remote add origin https://github.com/RiyadMahmud2021/interview_project.git
+          - git branch   (checking where)
+          - git branch 'develop' (creating git new branch)
+          - git checkout 'develop' (going to git branch)
+          - git branch   (checking where)
+          - git add .
+          - git commit -am "initial commit"
+          - git push -u origin 'develop'
 
 
-        - 
+
+          # Update
+          # --------------------------------------------------
+
+          - git checkout 'develop' (going to git branch)
+          - git branch   (checking where)
+          - git add .
+          - git commit -am "initial commit"
+          - git push -u origin develop
+
+          # 
+          # Delete branch 
+          # --------------------------------------------------
+
+          - git checkout main   (go to the new main branch)
+          - git branch -d develop  (delete command)
+          - git branch   (checking where) 
 
 At Last Project will be uploaded to github account
 
