@@ -39,19 +39,18 @@ At Last Project will be uploaded to github account
           - git init
           - git remote add origin https://github.com/RiyadMahmud2021/interview_project.git 
           - git add .
-          - git commit -am "initial commit"
           - git branch   (checking where)
           - git branch 'develop' (creating git new branch)
+          - git commit -am "initial commit"
           - git checkout 'develop' (going to git branch)
           - git branch   (checking where)
           - git push -u origin 'develop'
 
 
-
           # Update
           # --------------------------------------------------
-          - git checkout 'develop' (going to git branch)
           - git add .
+          - git checkout 'develop' (going to git branch)
           - git branch   (checking where)
           - git commit -am "initial commit"
           - git push -u origin develop
